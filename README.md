@@ -1,5 +1,5 @@
   ![Modern Creative Technology Logo](https://github.com/doumecq/Proyecto-propio-SISBORAL-ANALYST/assets/162972727/5ef0ed28-d6d2-4bb2-a756-c078c13abee6)
-# Proyecto-propio-SISBORAL-ANALYST
+# Proyecto propio en excel 
 Limpieza de datos y analisis de base de datos de la empresa llamada "NEWCARS"
 La empresa Newcars nos ha contactado para que le brindemos
 nuestros servicios. Nos ha presentado una serie de preguntas
