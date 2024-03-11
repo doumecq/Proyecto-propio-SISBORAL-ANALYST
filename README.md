@@ -10,5 +10,5 @@ que realicemos podrán tomar acciones y decisiones importante
 para su empresa. Además, han solicitado que presentemos
 gráficos para cada una de las preguntas, ya que esto le facilitará
 la comprensión de los resultados.  
-A CONTINUACION LES DEJO UN LINK DEL TRABAJO REALIZADO ↓
+A CONTINUACION LES DEJO UN LINK DEL TRABAJO REALIZADO ↓    
 [Proyecto propio SISBORAL ANALYST..xlsx](https://github.com/doumecq/Proyecto-propio-SISBORAL-ANALYST/files/14556490/Proyecto.propio.SISBORAL.ANALYST.xlsx)
